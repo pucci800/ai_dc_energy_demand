@@ -7,7 +7,7 @@ The goal is to understand how AI is influencing energy infrastructure over time,
 
 ## Project Repository
 
-📁 [GitHub Repo – AI Data Center Energy Demand](https://github.com/pucci800/ai_dc_energy_demand)
+[GitHub Repo – AI Data Center Energy Demand](https://github.com/pucci800/ai_dc_energy_demand)
 ---
 
 ## Tech Stack
