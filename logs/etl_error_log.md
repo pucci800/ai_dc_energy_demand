@@ -6,7 +6,7 @@ _Last updated: June 15, 2025_
 
 ---
 
-## 🔧 Git & GitHub Issues
+## Git & GitHub Issues
 
 ### 1. 403 Permission Denied
 - Error: `Permission to repo denied`
