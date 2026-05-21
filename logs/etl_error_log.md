@@ -24,7 +24,7 @@ _Last updated: June 15, 2025_
 
 ---
 
-## 📊 Tableau Dashboard Issues
+## Tableau Dashboard Issues
 
 ### 4. Broken Tableau Link (404 Error)
 - **Error**: "Where's the viz?" page on Tableau Public
