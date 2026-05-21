@@ -37,7 +37,7 @@ _Last updated: June 15, 2025_
 
 ---
 
-## 📁 Structural or Process Errors
+## Structural or Process Errors
 
 ### 6. Screenshot Not Showing in README
 - **Error**: Screenshot images didn't render
@@ -46,7 +46,7 @@ _Last updated: June 15, 2025_
 
 ---
 
-## ✅ Final Best Practices
+## Final Best Practices
 
 - Always run `git status` and `git log` before `git push`
 - Use **Tableau dashboard tab** when publishing, not worksheet view
