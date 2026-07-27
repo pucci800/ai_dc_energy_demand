@@ -12,6 +12,6 @@ df = pd.read_csv(csv_file)
 output_file = DATA_DIR / "ai_energy_raw.csv"
 df.to_csv(output_file, index=False)
 
-print(f"[EXTRACT SUCCESS]) File saved to: {output_file}")
+print(f"[EXTRACT SUCCESS] File saved to: {output_file}")
 
 
