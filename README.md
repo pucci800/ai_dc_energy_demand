@@ -89,11 +89,11 @@ cd ai_dc_energy_demand
 
 Build the Container
 
-docker run -t ai_dc_energy_demand .
+docker build -t ai-dc-energy-demand .
 
 Run the Container
 
-docker run -it ai_dc_energy_demand
+docker run --rm ai-dc-energy-demand
 
 Data Sources
 	•	Lawrence Berkeley National Laboratory
