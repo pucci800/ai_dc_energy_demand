@@ -6,13 +6,13 @@ FROM python:3.11-slim
 WORKDIR /app
 
 # Copy only the files needed
-COPY ../requirements.txt .
+COPY requirements.txt .
 
 # Install dependencies
 RUN pip install --no-cache-dir -r requirements.txt
 
 # Copy the entire project into the container
-COPY .. .
+COPY .. 
 
 # Default command (you can change this later)
 CMD ["python", "load/load_to_bigquery.py"]
