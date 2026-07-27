@@ -1,21 +1,32 @@
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Credentials and secrets
+secrets/
+credentials/
+*service-account*.json
+*credentials*.json
+bigquery-key.json
+*.pem
+*.key
+*.p12
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# PyCharm
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
 
 # macOS
 .DS_Store
 
-# Python
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-
-# Virtual environment
-venv/
-
 # Logs
-logs/*
-!logs/etl_error_log.md
-
-# Secret files
-secrets/
-
-# Screenshots (just keeping the folder ignored, no optional note)
+*.log
